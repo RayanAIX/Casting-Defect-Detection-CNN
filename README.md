@@ -144,10 +144,10 @@ python app.py
 
 | Platform | Link |
 |----------|-------|
-| GitHub | https://github.com/Muhammad-Rayan |
-| LinkedIn | https://linkedin.com/in/muhammad-rayan |
-| Kaggle | https://kaggle.com/ |
-| Hugging Face | https://huggingface.co/ |
+| GitHub | https://github.com/RayanAIX/ |
+| LinkedIn | https://www.linkedin.com/in/muhammadrayanshahid/ |
+| Kaggle | https://www.kaggle.com/muhammadrayanshahid |
+| Hugging Face | https://huggingface.co/RayanAIX |
 | YouTube | https://youtube.com/@ByteBrillianceAI |
 
 ---
