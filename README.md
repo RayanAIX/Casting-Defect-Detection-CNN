@@ -96,7 +96,7 @@ Metrics: **accuracy**
 ## 🚀 Demo  
 You can try the live model here:
 
-🔗 **Hugging Face Demo:** *[Add your link here](https://huggingface.co/spaces/RayanAIX/casting-defect-detector)*  
+🔗 **Hugging Face Demo:** *(https://huggingface.co/spaces/RayanAIX/casting-defect-detector)*  
 
 ### 📷 Screenshot  
 ![Demo Screenshot](demo.png)
